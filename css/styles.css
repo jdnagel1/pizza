@@ -1,0 +1,57 @@
+
+
+body {
+  background-image: url("../img/kraft3.jpg");
+  background-size: cover;
+}
+
+button {
+    background-image: url("https://i.pinimg.com/originals/fd/ef/8e/fdef8e7754a7bababcdb5b159404d025.jpg");
+    /* background-image: url("../img/button.png"); */
+    background-repeat: no-repeat;
+    margin: 10px;
+    margin-bottom: 30px;
+    font-family: 'Cousine', monospace;
+}
+
+h1 {
+  font-family: 'Notable', sans-serif;
+}
+
+h3 {
+  font-family: 'Cousine', monospace;
+  margin-bottom: 40px;
+}
+
+#imageTop {
+  margin-right: 30px;
+}
+
+form.pizzaOptions {
+  display: none;
+  float: right;
+}
+
+div.checkout {
+  display: none;
+  float: right;
+}
+
+/* .pizzaOptions {
+  float: right;
+} */
+
+/* .jumbotron {
+  background-color: #dba24a;
+}
+
+body {
+  background-color: #e1d800;
+}
+
+img#imageTop {
+  float: right;
+  padding-right: 5rem;
+  height: 10rem;
+  width: auto;
+} */
