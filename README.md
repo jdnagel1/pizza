@@ -9,7 +9,7 @@
 |Start Order|'Start Order''|New order begins|
 |Select Size|'Extra Large'|Additional $5 added
 |Select Toppings|'Pepperoni'|Additional $1 added
-|Checkout displays final price|Extra Large with Pepperoni|$10 +$4 +$1 = $15 total|
+|Checkout Displays Final Price|Extra Large with Pepperoni|$10 +$4 +$1 = $15 total|
 
 
 
