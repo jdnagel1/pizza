@@ -34,7 +34,7 @@ Pizza.prototype.priceBySize = function(size) {
   if(this.size === "large"){
     this.price;
   } else if (this.size === "extraLarge") {
-    this.price += 4;
+    this.price += 5;
   } else if (this.size === "personalPizza") {
     this.price += 7;
   } else {

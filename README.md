@@ -1,4 +1,4 @@
-# _Ping Pong_
+# _Pizza_
 
 #### By _**Jake**_
 
@@ -6,10 +6,10 @@
 
 |Description|Input|Output|
 |-|-|-|
-|Will print a range of numbers from 0 to the input|4|0, 1, 2, 3, 4|
-|Numbers divisible by 3 become "ping"|3|"ping"
-|Numbers divisible by 5 become "pong"|5|"pong"
-|Numbers divisible by 15 become "pingpong"|15|"pingpong"
+|Start Order|'Start Order''|New order begins|
+|Select Size|'Extra Large'|Additional $5 added
+|Select Toppings|'Pepperoni'|Additional $1 added
+|Checkout displays final price|Extra Large with Pepperoni|$10 +$4 +$1 = $15 total|
 
 
 
